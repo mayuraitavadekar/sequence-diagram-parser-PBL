@@ -1,5 +1,5 @@
 # Basic Documentation
-This is basic documentation related to this repository.
+This is basic documentation related to sequence diagram parser.
 
 
 ## What is Sequence Diagram Parser?
